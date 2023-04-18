@@ -1,0 +1,22 @@
+.top  a,.top h1,h1{
+    text-decoration: underline;
+}
+.top{
+    border: 2px solid black;
+    padding: 10px;
+}
+ a{
+    color: black;
+ }
+ .bhai{
+    /* display: flex;
+    flex-direction: column;
+        justify-content: flex-start; */
+        position: absolute;
+        left: 0px;
+ }
+.main{
+    margin: 10px;
+    font-family: Inter,
+        sans-serif;
+}
